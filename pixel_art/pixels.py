@@ -55,3 +55,4 @@ class Image():
       self.img[args[0]] = colors
 
 
+# test your code here
